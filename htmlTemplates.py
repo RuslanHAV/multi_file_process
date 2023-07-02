@@ -62,7 +62,7 @@ user_template = '''
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 <div class="chat-message user">
     <div class="avatar">
-        <img src="https://drive.google.com/file/d/1WBY1sGT-ZxQXsmeV--RkjE4O2qn9U2jZ/view?usp=sharing">
+        <img src="https://resizing.flixster.com/ocuc8yjm8Fu5UK5Ze8lbdp58m9Y=/300x300/v2/https://flxt.tmsimg.com/assets/p11759522_i_h9_aa.jpg">
     </div>
     <div class="message">{{MSG}}</div>
 </div>
